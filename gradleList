@@ -8,6 +8,7 @@ annotationProcessor 'com.jakewharton:butterknife-compiler:8.5.1'
 
 2、RollViewPager  
 url:https://github.com/Jude95/RollViewPager  
+
 compile 'com.jude:rollviewpager:1.4.6'  
 
 
