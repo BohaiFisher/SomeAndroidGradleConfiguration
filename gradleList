@@ -11,6 +11,8 @@ url:https://github.com/Jude95/RollViewPager
 
 compile 'com.jude:rollviewpager:1.4.6'  
 
+3、WebView加载具有上传图片（拍照上传）功能的url (2017-03-09)  
+url:https://github.com/AlexTam930/uploadimage  
 
 
 ---------------------------------------------------------------------------------
